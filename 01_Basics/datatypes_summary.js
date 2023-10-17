@@ -8,3 +8,11 @@
 
 // Array, Object , Function
 
+
+
+
+//           Memory      !
+
+// stack ( Primitive), Heap (Non- Premitive)
+
+
