@@ -26,22 +26,29 @@
 
 // }, 1000)
 
-//        Understand GSAP -------------2.0)
+//        Understand GSAP -------------2.
 
 
+// gsap.to('#box',{
+//     x:600,
+//     duration:2,
+//     delay:1,
+//     // backgroundColor: black,
+//     rotate: 350,
 
-// function time(){
-// var a = 0;
-//     setInterval(() => {
-       
-//         if(a<100){
-//             a = a + Math.floor(Math.random() * 10);
-//             document.querySelector("#loader h1").innerHTML = a + "%";
-//         }else{
-//             a = 100;
-//             document.querySelector("#loader h1").innerHTML = a + "%";
-//         }
-//     }, 150)
-// };
-// time();
+//     stragger:1,
+
+// });
+
+
+gsap.form('#box',{
+    y:600,
+    duration:2,
+    delay:1,
+    // backgroundColor: black,
+    rotate: 350,
+
+    stragger:1,
+
+});
 
