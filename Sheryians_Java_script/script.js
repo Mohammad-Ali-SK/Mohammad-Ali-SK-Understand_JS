@@ -25,3 +25,10 @@ const ans = new Promise((resolve, reject) => {
 ans
 .then(() => console.log("success"))
 .catch(() => console.log("error"))
+
+
+for(let i=1; i<=10; i++){
+    console.log(i+1);
+}
+
+
