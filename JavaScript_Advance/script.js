@@ -25,3 +25,9 @@
 
 // fdlshy values are = 0 false undefined null NaN document .all
 // otherwise all of true values
+
+// forEach and forIn function 
+
+// object par loop karnae ke liyre hota hai forin loop
+
+// call back function 
