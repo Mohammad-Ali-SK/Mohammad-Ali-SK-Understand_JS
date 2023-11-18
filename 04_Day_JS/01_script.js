@@ -122,4 +122,19 @@ console.log('Hello');
 
 // console.log(myNums);
 
- 
+// const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=Seattle';
+// const options = {
+// 	method: 'GET',
+// 	headers: {
+// 		'X-RapidAPI-Key': 'e533e4c0d2msh547cab2ef7680f3p13923bjsnb21f9109a450',
+// 		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+// 	}
+// };
+
+// try {
+// 	const response = await fetch(url, options);
+// 	const result = await response.text();
+// 	console.log(result);
+// } catch (error) {
+// 	console.error(error);
+// }
