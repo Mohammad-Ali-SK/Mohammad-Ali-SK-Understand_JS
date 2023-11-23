@@ -60,3 +60,5 @@ let num_2 = [66,89];
 let full_name = [...num_1, ...num_2];
 let full_name2 = num_1.concat(num_2);
 console.log(full_name);
+
+// Let's Practice 
